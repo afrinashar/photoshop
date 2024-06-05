@@ -1,0 +1,16 @@
+.canvas {
+  border: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.layer-controls {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
